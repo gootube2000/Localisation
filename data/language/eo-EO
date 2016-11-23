@@ -35,16 +35,16 @@ STR_0030    :Food Stall
 STR_0031    :Unknown Stall (1D)
 STR_0032    :Drink Stall
 STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
-STR_0035    :Merry-Go-Round
+STR_0034    :Butiko
+STR_0035    :Karuselo
 STR_0036    :Unknown Stall (22)
 STR_0037    :Information Kiosk
-STR_0038    :Toilets
-STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Cinema
+STR_0038    :Necesejo
+STR_0039    :Rado de Ferris
+STR_0040    :Moviĝo Simulilo
+STR_0041    :3D Kinejo
 STR_0042    :Top Spin
-STR_0043    :Space Rings
+STR_0043    :Spaca Ringoj
 STR_0044    :Reverse Freefall Coaster
 STR_0045    :Lifto
 STR_0046    :Vertical Drop Onda Fervojo
@@ -55,7 +55,7 @@ STR_0050    :First Aid Room
 STR_0051    :Circus Show
 STR_0052    :Fantoma Trajno
 STR_0053    :Steel Twister Onda Fervojo
-STR_0054    :Wooden Onda Fervojo
+STR_0054    :Ligna Onda Fervojo
 STR_0055    :Side-Friction Onda Fervojo
 STR_0056    :Wild Mouse
 STR_0057    :Multi-Dimension Onda Fervojo
@@ -64,13 +64,13 @@ STR_0059    :Flying Onda Fervojo
 STR_0060    :Unknown Ride (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
-STR_0063    :Miniatura Helicopters
+STR_0063    :Miniatura Helikopteroj
 STR_0064    :Lay-down Onda Fervojo
 STR_0065    :Suspended Monorail
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Onda Fervojo
 STR_0068    :Heartline Twister Coaster
-STR_0069    :Miniatura Golf
+STR_0069    :Miniatura Golfo
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
 STR_0072    :Flying Saucers
@@ -534,7 +534,7 @@ STR_0529    :Mine train themed onda fervojo trains career along steel onda fervo
 STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
 STR_0531    :A compact steel-tracked onda fervojo where the train travels through corkscrews and loops
 STR_0532    :Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit
-STR_0533    :Wooden building with an internal staircase and an external spiral slide for use with slide mats
+STR_0533    :Ligna building with an internal staircase and an external spiral slide for use with slide mats
 STR_0534    :Self-drive petrol-engined go karts
 STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
 STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
@@ -546,7 +546,7 @@ STR_0541    :<removed string - do not use>
 STR_0542    :A stall where guests can purchase drinks
 STR_0543    :<removed string - do not use>
 STR_0544    :A stall that sells souvenirs
-STR_0545    :Traditional rotating carousel with carved wooden horses
+STR_0545    :Traditional rotating carousel with carved ligna horses
 STR_0546    :<removed string - do not use>
 STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
 STR_0548    :A toilet building
@@ -565,20 +565,20 @@ STR_0560    :A place for sick guests to go for faster recovery
 STR_0561    :Circus animal show inside a big-top tent
 STR_0562    :Powered cars travel along a multi-level track past spooky scenery and special effects
 STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
-STR_0564    :Running on wooden track, this coaster is fast, rough, noisy, and gives an 'out of control' riding experience with plenty of 'air time'
-STR_0565    :A simple wooden onda fervojo capable of only gentle slopes and turns, where the cars are only kept on the track by side friction wheels and gravity
+STR_0564    :Running on ligna track, this coaster is fast, rough, noisy, and gives an 'out of control' riding experience with plenty of 'air time'
+STR_0565    :A simple linga onda fervojo capable of only gentle slopes and turns, where the cars are only kept on the track by side friction wheels and gravity
 STR_0566    :Individual onda fervojo cars zip around a tight zig-zag layout of track with sharp corners and short sharp drops
 STR_0567    :Sitting in seats suspended either side of the track, riders are pitched head-over-heels while they plunge down steep drops and travel through various inversions
 STR_0568    :<removed string - do not use>
 STR_0569    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air
 STR_0570    :<removed string - do not use>
-STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
+STR_0571    :Circular cars spin around as they travel along the zig-zagging linga track
 STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash
 STR_0573    :Powered helicopter shaped cars running on a steel track, controlled by the pedalling of the riders
 STR_0574    :Riders are held in special harnesses in a lying-down position, travelling through twisted track and inversions either on their backs or facing the ground
 STR_0575    :Powered trains hanging from a single rail transport people around the park
 STR_0576    :<removed string - do not use>
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
+STR_0577    :Bogied cars run on linga tracks, turning around on special reversing sections
 STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
 STR_0579    :A gentle game of miniature golf
 STR_0580    :A giant steel onda fervojo capable of smooth drops and hills of over 300ft
@@ -604,171 +604,171 @@ STR_0599    :A compact onda fervojor with individual cars and smooth twisting dr
 STR_0600    :Powered mine trains career along a smooth and twisted track layout
 STR_0601    :<removed string - do not use>
 STR_0602    :Onda fervojo trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :Guest {INT32}
-STR_0604    :Guest {INT32}
-STR_0605    :Guest {INT32}
-STR_0606    :Guest {INT32}
-STR_0607    :Guest {INT32}
-STR_0608    :Guest {INT32}
-STR_0609    :Guest {INT32}
-STR_0610    :Guest {INT32}
-STR_0611    :Guest {INT32}
-STR_0612    :Guest {INT32}
-STR_0613    :Guest {INT32}
-STR_0614    :Guest {INT32}
-STR_0615    :Guest {INT32}
-STR_0616    :Guest {INT32}
-STR_0617    :Guest {INT32}
-STR_0618    :Guest {INT32}
-STR_0619    :Guest {INT32}
-STR_0620    :Guest {INT32}
-STR_0621    :Guest {INT32}
-STR_0622    :Guest {INT32}
-STR_0623    :Guest {INT32}
-STR_0624    :Guest {INT32}
-STR_0625    :Guest {INT32}
-STR_0626    :Guest {INT32}
-STR_0627    :Guest {INT32}
-STR_0628    :Guest {INT32}
-STR_0629    :Guest {INT32}
-STR_0630    :Guest {INT32}
-STR_0631    :Guest {INT32}
-STR_0632    :Guest {INT32}
-STR_0633    :Guest {INT32}
-STR_0634    :Guest {INT32}
-STR_0635    :Guest {INT32}
-STR_0636    :Guest {INT32}
-STR_0637    :Guest {INT32}
-STR_0638    :Guest {INT32}
-STR_0639    :Guest {INT32}
-STR_0640    :Guest {INT32}
-STR_0641    :Guest {INT32}
-STR_0642    :Guest {INT32}
-STR_0643    :Guest {INT32}
-STR_0644    :Guest {INT32}
-STR_0645    :Guest {INT32}
-STR_0646    :Guest {INT32}
-STR_0647    :Guest {INT32}
-STR_0648    :Guest {INT32}
-STR_0649    :Guest {INT32}
-STR_0650    :Guest {INT32}
-STR_0651    :Guest {INT32}
-STR_0652    :Guest {INT32}
-STR_0653    :Guest {INT32}
-STR_0654    :Guest {INT32}
-STR_0655    :Guest {INT32}
-STR_0656    :Guest {INT32}
-STR_0657    :Guest {INT32}
-STR_0658    :Guest {INT32}
-STR_0659    :Guest {INT32}
-STR_0660    :Guest {INT32}
-STR_0661    :Guest {INT32}
-STR_0662    :Guest {INT32}
-STR_0663    :Guest {INT32}
-STR_0664    :Guest {INT32}
-STR_0665    :Guest {INT32}
-STR_0666    :Guest {INT32}
-STR_0667    :Guest {INT32}
-STR_0668    :Guest {INT32}
-STR_0669    :Guest {INT32}
-STR_0670    :Guest {INT32}
-STR_0671    :Guest {INT32}
-STR_0672    :Guest {INT32}
-STR_0673    :Guest {INT32}
-STR_0674    :Guest {INT32}
-STR_0675    :Guest {INT32}
-STR_0676    :Guest {INT32}
-STR_0677    :Guest {INT32}
-STR_0678    :Guest {INT32}
-STR_0679    :Guest {INT32}
-STR_0680    :Guest {INT32}
-STR_0681    :Guest {INT32}
-STR_0682    :Guest {INT32}
-STR_0683    :Guest {INT32}
-STR_0684    :Guest {INT32}
-STR_0685    :Guest {INT32}
-STR_0686    :Guest {INT32}
-STR_0687    :Guest {INT32}
-STR_0688    :Guest {INT32}
-STR_0689    :Guest {INT32}
-STR_0690    :Guest {INT32}
-STR_0691    :Guest {INT32}
-STR_0692    :Guest {INT32}
-STR_0693    :Guest {INT32}
-STR_0694    :Guest {INT32}
-STR_0695    :Guest {INT32}
-STR_0696    :Guest {INT32}
-STR_0697    :Guest {INT32}
-STR_0698    :Guest {INT32}
-STR_0699    :Guest {INT32}
-STR_0700    :Guest {INT32}
-STR_0701    :Guest {INT32}
-STR_0702    :Guest {INT32}
-STR_0703    :Guest {INT32}
-STR_0704    :Guest {INT32}
-STR_0705    :Guest {INT32}
-STR_0706    :Guest {INT32}
-STR_0707    :Guest {INT32}
-STR_0708    :Guest {INT32}
-STR_0709    :Guest {INT32}
-STR_0710    :Guest {INT32}
-STR_0711    :Guest {INT32}
-STR_0712    :Guest {INT32}
-STR_0713    :Guest {INT32}
-STR_0714    :Guest {INT32}
-STR_0715    :Guest {INT32}
-STR_0716    :Guest {INT32}
-STR_0717    :Guest {INT32}
-STR_0718    :Guest {INT32}
-STR_0719    :Guest {INT32}
-STR_0720    :Guest {INT32}
-STR_0721    :Guest {INT32}
-STR_0722    :Guest {INT32}
-STR_0723    :Guest {INT32}
-STR_0724    :Guest {INT32}
-STR_0725    :Guest {INT32}
-STR_0726    :Guest {INT32}
-STR_0727    :Guest {INT32}
-STR_0728    :Guest {INT32}
-STR_0729    :Guest {INT32}
-STR_0730    :Guest {INT32}
-STR_0731    :Guest {INT32}
-STR_0732    :Guest {INT32}
-STR_0733    :Guest {INT32}
-STR_0734    :Guest {INT32}
-STR_0735    :Guest {INT32}
-STR_0736    :Guest {INT32}
-STR_0737    :Guest {INT32}
-STR_0738    :Guest {INT32}
-STR_0739    :Guest {INT32}
-STR_0740    :Guest {INT32}
-STR_0741    :Guest {INT32}
-STR_0742    :Guest {INT32}
-STR_0743    :Guest {INT32}
-STR_0744    :Guest {INT32}
-STR_0745    :Guest {INT32}
-STR_0746    :Guest {INT32}
-STR_0747    :Guest {INT32}
-STR_0748    :Guest {INT32}
-STR_0749    :Guest {INT32}
-STR_0750    :Guest {INT32}
-STR_0751    :Guest {INT32}
-STR_0752    :Guest {INT32}
-STR_0753    :Guest {INT32}
-STR_0754    :Guest {INT32}
-STR_0755    :Guest {INT32}
-STR_0756    :Guest {INT32}
-STR_0757    :Guest {INT32}
-STR_0758    :Guest {INT32}
-STR_0759    :Guest {INT32}
-STR_0760    :Guest {INT32}
-STR_0761    :Guest {INT32}
-STR_0762    :Guest {INT32}
-STR_0763    :Guest {INT32}
-STR_0764    :Guest {INT32}
-STR_0765    :Guest {INT32}
-STR_0766    :Guest {INT32}
-STR_0767    :Guest {INT32}
+STR_0603    :Gasto {INT32}
+STR_0604    :Gasto {INT32}
+STR_0605    :Gasto {INT32}
+STR_0606    :Gasto {INT32}
+STR_0607    :Gasto {INT32}
+STR_0608    :Gasto {INT32}
+STR_0609    :Gasto {INT32}
+STR_0610    :Gasto {INT32}
+STR_0611    :Gasto {INT32}
+STR_0612    :Gasto {INT32}
+STR_0613    :Gasto {INT32}
+STR_0614    :Gasto {INT32}
+STR_0615    :Gasto {INT32}
+STR_0616    :Gasto {INT32}
+STR_0617    :Gasto {INT32}
+STR_0618    :Gasto {INT32}
+STR_0619    :Gasto {INT32}
+STR_0620    :Gasto {INT32}
+STR_0621    :Gasto {INT32}
+STR_0622    :Gasto {INT32}
+STR_0623    :Gasto {INT32}
+STR_0624    :Gasto {INT32}
+STR_0625    :Gasto {INT32}
+STR_0626    :Gasto {INT32}
+STR_0627    :Gasto {INT32}
+STR_0628    :Gasto {INT32}
+STR_0629    :Gasto {INT32}
+STR_0630    :Gasto {INT32}
+STR_0631    :Gasto {INT32}
+STR_0632    :Gasto {INT32}
+STR_0633    :Gasto {INT32}
+STR_0634    :Gasto {INT32}
+STR_0635    :Gasto {INT32}
+STR_0636    :Gasto {INT32}
+STR_0637    :Gasto {INT32}
+STR_0638    :Gasto {INT32}
+STR_0639    :Gasto {INT32}
+STR_0640    :Gasto {INT32}
+STR_0641    :Gasto {INT32}
+STR_0642    :Gasto {INT32}
+STR_0643    :Gasto {INT32}
+STR_0644    :Gasto {INT32}
+STR_0645    :Gasto {INT32}
+STR_0646    :Gasto {INT32}
+STR_0647    :Gasto {INT32}
+STR_0648    :Gasto {INT32}
+STR_0649    :Gasto {INT32}
+STR_0650    :Gasto {INT32}
+STR_0651    :Gasto {INT32}
+STR_0652    :Gasto {INT32}
+STR_0653    :Gasto {INT32}
+STR_0654    :Gasto {INT32}
+STR_0655    :Gasto {INT32}
+STR_0656    :Gasto {INT32}
+STR_0657    :Gasto {INT32}
+STR_0658    :Gasto {INT32}
+STR_0659    :Gasto {INT32}
+STR_0660    :Gasto {INT32}
+STR_0661    :Gasto {INT32}
+STR_0662    :Gasto {INT32}
+STR_0663    :Gasto {INT32}
+STR_0664    :Gasto {INT32}
+STR_0665    :Gasto {INT32}
+STR_0666    :Gasto {INT32}
+STR_0667    :Gasto {INT32}
+STR_0668    :Gasto {INT32}
+STR_0669    :Gasto {INT32}
+STR_0670    :Gasto {INT32}
+STR_0671    :Gasto {INT32}
+STR_0672    :Gasto {INT32}
+STR_0673    :Gasto {INT32}
+STR_0674    :Gasto {INT32}
+STR_0675    :Gasto {INT32}
+STR_0676    :Gasto {INT32}
+STR_0677    :Gasto {INT32}
+STR_0678    :Gasto {INT32}
+STR_0679    :Gasto {INT32}
+STR_0680    :Gasto {INT32}
+STR_0681    :Gasto {INT32}
+STR_0682    :Gasto {INT32}
+STR_0683    :Gasto {INT32}
+STR_0684    :Gasto {INT32}
+STR_0685    :Gasto {INT32}
+STR_0686    :Gasto {INT32}
+STR_0687    :Gasto {INT32}
+STR_0688    :Gasto {INT32}
+STR_0689    :Gasto {INT32}
+STR_0690    :Gasto {INT32}
+STR_0691    :Gasto {INT32}
+STR_0692    :Gasto {INT32}
+STR_0693    :Gasto {INT32}
+STR_0694    :Gasto {INT32}
+STR_0695    :Gasto {INT32}
+STR_0696    :Gasto {INT32}
+STR_0697    :Gasto {INT32}
+STR_0698    :Gasto {INT32}
+STR_0699    :Gasto {INT32}
+STR_0700    :Gasto {INT32}
+STR_0701    :Gasto {INT32}
+STR_0702    :Gasto {INT32}
+STR_0703    :Gasto {INT32}
+STR_0704    :Gasto {INT32}
+STR_0705    :Gasto {INT32}
+STR_0706    :Gasto {INT32}
+STR_0707    :Gasto {INT32}
+STR_0708    :Gasto {INT32}
+STR_0709    :Gasto {INT32}
+STR_0710    :Gasto {INT32}
+STR_0711    :Gasto {INT32}
+STR_0712    :Gasto {INT32}
+STR_0713    :Gasto {INT32}
+STR_0714    :Gasto {INT32}
+STR_0715    :Gasto {INT32}
+STR_0716    :Gasto {INT32}
+STR_0717    :Gasto {INT32}
+STR_0718    :Gasto {INT32}
+STR_0719    :Gasto {INT32}
+STR_0720    :Gasto {INT32}
+STR_0721    :Gasto {INT32}
+STR_0722    :Gasto {INT32}
+STR_0723    :Gasto {INT32}
+STR_0724    :Gasto {INT32}
+STR_0725    :Gasto {INT32}
+STR_0726    :Gasto {INT32}
+STR_0727    :Gasto {INT32}
+STR_0728    :Gasto {INT32}
+STR_0729    :Gasto {INT32}
+STR_0730    :Gasto {INT32}
+STR_0731    :Gasto {INT32}
+STR_0732    :Gasto {INT32}
+STR_0733    :Gasto {INT32}
+STR_0734    :Gasto {INT32}
+STR_0735    :Gasto {INT32}
+STR_0736    :Gasto {INT32}
+STR_0737    :Gasto {INT32}
+STR_0738    :Gasto {INT32}
+STR_0739    :Gasto {INT32}
+STR_0740    :Gasto {INT32}
+STR_0741    :Gasto {INT32}
+STR_0742    :Gasto {INT32}
+STR_0743    :Gasto {INT32}
+STR_0744    :Gasto {INT32}
+STR_0745    :Gasto {INT32}
+STR_0746    :Gasto {INT32}
+STR_0747    :Gasto {INT32}
+STR_0748    :Gasto {INT32}
+STR_0749    :Gasto {INT32}
+STR_0750    :Gasto {INT32}
+STR_0751    :Gasto {INT32}
+STR_0752    :Gasto {INT32}
+STR_0753    :Gasto {INT32}
+STR_0754    :Gasto {INT32}
+STR_0755    :Gasto {INT32}
+STR_0756    :Gasto {INT32}
+STR_0757    :Gasto {INT32}
+STR_0758    :Gasto {INT32}
+STR_0759    :Gasto {INT32}
+STR_0760    :Gasto {INT32}
+STR_0761    :Gasto {INT32}
+STR_0762    :Gasto {INT32}
+STR_0763    :Gasto {INT32}
+STR_0764    :Gasto {INT32}
+STR_0765    :Gasto {INT32}
+STR_0766    :Gasto {INT32}
+STR_0767    :Gasto {INT32}
 STR_0768    :Handyman {INT32}
 STR_0769    :Mechanic {INT32}
 STR_0770    :Security Guard {INT32}
@@ -779,48 +779,48 @@ STR_0774    :Unnamed park{POP16}{POP16}
 STR_0775    :Unnamed park{POP16}{POP16}
 STR_0776    :Unnamed park{POP16}{POP16}
 STR_0777    :Unnamed park{POP16}{POP16}
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
-STR_0782    :4th
-STR_0783    :5th
-STR_0784    :6th
-STR_0785    :7th
-STR_0786    :8th
-STR_0787    :9th
-STR_0788    :10th
-STR_0789    :11th
-STR_0790    :12th
-STR_0791    :13th
-STR_0792    :14th
-STR_0793    :15th
-STR_0794    :16th
-STR_0795    :17th
-STR_0796    :18th
-STR_0797    :19th
-STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
-STR_0802    :24th
-STR_0803    :25th
-STR_0804    :26th
-STR_0805    :27th
-STR_0806    :28th
-STR_0807    :29th
-STR_0808    :30th
-STR_0809    :31st
+STR_0778    :Signo
+STR_0779    :1a
+STR_0780    :2a
+STR_0781    :3a
+STR_0782    :4a
+STR_0783    :5a
+STR_0784    :6a
+STR_0785    :7a
+STR_0786    :8a
+STR_0787    :9a
+STR_0788    :10a
+STR_0789    :11a
+STR_0790    :12a
+STR_0791    :13a
+STR_0792    :14a
+STR_0793    :15a
+STR_0794    :16a
+STR_0795    :17a
+STR_0796    :18a
+STR_0797    :19a
+STR_0798    :20a
+STR_0799    :21a
+STR_0800    :22a
+STR_0801    :23a
+STR_0802    :24a
+STR_0803    :25a
+STR_0804    :26a
+STR_0805    :27a
+STR_0806    :28a
+STR_0807    :29a
+STR_0808    :30a
+STR_0809    :31a
 STR_0810    :Jan
 STR_0811    :Feb
 STR_0812    :Mar
 STR_0813    :Apr
-STR_0814    :May
+STR_0814    :Maj
 STR_0815    :Jun
 STR_0816    :Jul
-STR_0817    :Aug
+STR_0817    :Aŭg
 STR_0818    :Sep
-STR_0819    :Oct
+STR_0819    :Okt
 STR_0820    :Nov
 STR_0821    :Dec
 STR_0822    :Unable to access graphic data file
@@ -899,7 +899,7 @@ STR_0893    :Screenshot failed !
 STR_0894    :Landscape data area full !
 STR_0895    :Can't build partly above and partly below ground
 STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
+STR_0897    :Direkto
 STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
 STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
 STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
@@ -1495,18 +1495,18 @@ STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
 STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
 STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Mi ne malsatas{ENDQUOTES}
 STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Helpu! I'm drowning!{ENDQUOTES}
 STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
 STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
 STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
 STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Mi malsatas{ENDQUOTES}
 STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
 STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the toilet{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
-STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}n{ENDQUOTES}
+STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}n{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
 STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
 STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
@@ -1518,42 +1518,42 @@ STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
 STR_1513    :{SMALLFONT}{OPENQUOTES}The vandalism here is really bad{ENDQUOTES}
 STR_1514    :{SMALLFONT}{OPENQUOTES}Great scenery!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
-STR_1516    :{SMALLFONT}{OPENQUOTES}The jumping fountains are great{ENDQUOTES}
-STR_1517    :{SMALLFONT}{OPENQUOTES}The music is nice here{ENDQUOTES}
-STR_1518    :{SMALLFONT}{OPENQUOTES}This balloon from {STRINGID} is really good value{ENDQUOTES}
-STR_1519    :{SMALLFONT}{OPENQUOTES}This cuddly toy from {STRINGID} is really good value{ENDQUOTES}
-STR_1520    :{SMALLFONT}{OPENQUOTES}This park map from {STRINGID} is really good value{ENDQUOTES}
-STR_1521    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1522    :{SMALLFONT}{OPENQUOTES}This umbrella from {STRINGID} is really good value{ENDQUOTES}
-STR_1523    :{SMALLFONT}{OPENQUOTES}This drink from {STRINGID} is really good value{ENDQUOTES}
-STR_1524    :{SMALLFONT}{OPENQUOTES}This burger from {STRINGID} is really good value{ENDQUOTES}
-STR_1525    :{SMALLFONT}{OPENQUOTES}These chips from {STRINGID} are really good value{ENDQUOTES}
-STR_1526    :{SMALLFONT}{OPENQUOTES}This ice cream from {STRINGID} is really good value{ENDQUOTES}
-STR_1527    :{SMALLFONT}{OPENQUOTES}This candyfloss from {STRINGID} is really good value{ENDQUOTES}
+STR_1516    :{SMALLFONT}{OPENQUOTES}La jumping fountains are great{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}La muziko estas bela ĉi tie{ENDQUOTES}
+STR_1518    :{SMALLFONT}{OPENQUOTES}This balloon from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1519    :{SMALLFONT}{OPENQUOTES}This cuddly toy from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1520    :{SMALLFONT}{OPENQUOTES}This park map from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1521    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1522    :{SMALLFONT}{OPENQUOTES}This umbrella from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1523    :{SMALLFONT}{OPENQUOTES}This drink from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1524    :{SMALLFONT}{OPENQUOTES}This burger from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}These chips from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1526    :{SMALLFONT}{OPENQUOTES}This ice cream from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}This candyfloss from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1528    :
 STR_1529    :
 STR_1530    :
-STR_1531    :{SMALLFONT}{OPENQUOTES}This pizza from {STRINGID} is really good value{ENDQUOTES}
+STR_1531    :{SMALLFONT}{OPENQUOTES}This pizza from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1532    :
-STR_1533    :{SMALLFONT}{OPENQUOTES}This popcorn from {STRINGID} is really good value{ENDQUOTES}
-STR_1534    :{SMALLFONT}{OPENQUOTES}This hot dog from {STRINGID} is really good value{ENDQUOTES}
-STR_1535    :{SMALLFONT}{OPENQUOTES}This tentacle from {STRINGID} is really good value{ENDQUOTES}
-STR_1536    :{SMALLFONT}{OPENQUOTES}This hat from {STRINGID} is really good value{ENDQUOTES}
-STR_1537    :{SMALLFONT}{OPENQUOTES}This toffee apple from {STRINGID} is really good value{ENDQUOTES}
-STR_1538    :{SMALLFONT}{OPENQUOTES}This T-shirt from {STRINGID} is really good value{ENDQUOTES}
-STR_1539    :{SMALLFONT}{OPENQUOTES}This doughnut from {STRINGID} is really good value{ENDQUOTES}
-STR_1540    :{SMALLFONT}{OPENQUOTES}This coffee from {STRINGID} is really good value{ENDQUOTES}
+STR_1533    :{SMALLFONT}{OPENQUOTES}This popcorn from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1534    :{SMALLFONT}{OPENQUOTES}This hot dog from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1535    :{SMALLFONT}{OPENQUOTES}This tentacle from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1536    :{SMALLFONT}{OPENQUOTES}This hat from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}This toffee apple from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1538    :{SMALLFONT}{OPENQUOTES}This T-ĉemizo from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}This doughnut from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1540    :{SMALLFONT}{OPENQUOTES}This coffee from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1541    :
-STR_1542    :{SMALLFONT}{OPENQUOTES}This fried chicken from {STRINGID} is really good value{ENDQUOTES}
-STR_1543    :{SMALLFONT}{OPENQUOTES}This lemonade from {STRINGID} is really good value{ENDQUOTES}
+STR_1542    :{SMALLFONT}{OPENQUOTES}This fried chicken from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1543    :{SMALLFONT}{OPENQUOTES}This lemonade from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1544    :
 STR_1545    :
 STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :{SMALLFONT}{OPENQUOTES}Wow!{ENDQUOTES}
-STR_1551    :{SMALLFONT}{OPENQUOTES}I have the strangest feeling someone is watching me{ENDQUOTES}
+STR_1550    :{SMALLFONT}{OPENQUOTES}Ŭaŭ!{ENDQUOTES}
+STR_1551    :{SMALLFONT}{OPENQUOTES}Mi havas the strangest feeling someone is watching me{ENDQUOTES}
 STR_1552    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a balloon from {STRINGID}{ENDQUOTES}
 STR_1553    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cuddly toy from {STRINGID}{ENDQUOTES}
 STR_1554    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a park map from {STRINGID}{ENDQUOTES}
@@ -1586,27 +1586,27 @@ STR_1580    :
 STR_1581    :
 STR_1582    :
 STR_1583    :
-STR_1584    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1585    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1586    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1587    :{SMALLFONT}{OPENQUOTES}This pretzel from {STRINGID} is really good value{ENDQUOTES}
-STR_1588    :{SMALLFONT}{OPENQUOTES}This hot chocolate from {STRINGID} is really good value{ENDQUOTES}
-STR_1589    :{SMALLFONT}{OPENQUOTES}This iced tea from {STRINGID} is really good value{ENDQUOTES}
-STR_1590    :{SMALLFONT}{OPENQUOTES}This funnel cake from {STRINGID} is really good value{ENDQUOTES}
-STR_1591    :{SMALLFONT}{OPENQUOTES}These sunglasses from {STRINGID} are really good value{ENDQUOTES}
-STR_1592    :{SMALLFONT}{OPENQUOTES}These beef noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1593    :{SMALLFONT}{OPENQUOTES}These fried rice noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1594    :{SMALLFONT}{OPENQUOTES}This wonton soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1595    :{SMALLFONT}{OPENQUOTES}This meatball soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1596    :{SMALLFONT}{OPENQUOTES}This fruit juice from {STRINGID} is really good value{ENDQUOTES}
-STR_1597    :{SMALLFONT}{OPENQUOTES}This soybean milk from {STRINGID} is really good value{ENDQUOTES}
-STR_1598    :{SMALLFONT}{OPENQUOTES}This sujongkwa from {STRINGID} is really good value{ENDQUOTES}
-STR_1599    :{SMALLFONT}{OPENQUOTES}This sub sandwich from {STRINGID} is really good value{ENDQUOTES}
-STR_1600    :{SMALLFONT}{OPENQUOTES}This cookie from {STRINGID} is really good value{ENDQUOTES}
+STR_1584    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1585    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1586    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1587    :{SMALLFONT}{OPENQUOTES}This pretzel from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1588    :{SMALLFONT}{OPENQUOTES}This hot chocolate from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1589    :{SMALLFONT}{OPENQUOTES}This iced tea from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1590    :{SMALLFONT}{OPENQUOTES}This funnel cake from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1591    :{SMALLFONT}{OPENQUOTES}These sunglasses from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1592    :{SMALLFONT}{OPENQUOTES}These beef noodles from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1593    :{SMALLFONT}{OPENQUOTES}These fried rice noodles from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1594    :{SMALLFONT}{OPENQUOTES}This wonton soup from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1595    :{SMALLFONT}{OPENQUOTES}This meatball soup from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1596    :{SMALLFONT}{OPENQUOTES}This fruit juice from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1597    :{SMALLFONT}{OPENQUOTES}This soybean milk from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1598    :{SMALLFONT}{OPENQUOTES}This sujongkwa from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1599    :{SMALLFONT}{OPENQUOTES}This sub sandwich from {STRINGID} estas tre bona valoro{ENDQUOTES}
+STR_1600    :{SMALLFONT}{OPENQUOTES}This cookie from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1601    :
 STR_1602    :
 STR_1603    :
-STR_1604    :{SMALLFONT}{OPENQUOTES}This roast sausage from {STRINGID} are really good value{ENDQUOTES}
+STR_1604    :{SMALLFONT}{OPENQUOTES}This roast sausage from {STRINGID} estas tre bona valoro{ENDQUOTES}
 STR_1605    :
 STR_1606    :
 STR_1607    :
@@ -1650,7 +1650,7 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}{OPENQUOTES}Help! Put me down!{ENDQUOTES}
+STR_1648    :{SMALLFONT}{OPENQUOTES}Helpu! Put me down!{ENDQUOTES}
 STR_1649    :{SMALLFONT}{OPENQUOTES}I'm running out of cash!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
 STR_1651    :<removed string - do not use>
@@ -1702,17 +1702,17 @@ STR_1696    :{SMALLFONT}{BLACK}Customer information
 STR_1697    :Cannot place these on queue line area
 STR_1698    :Can only place these on queue area
 STR_1699    :Too many people in game
-STR_1700    :Hire new Handyman
-STR_1701    :Hire new Mechanic
-STR_1702    :Hire new Security Guard
-STR_1703    :Hire new Entertainer
+STR_1700    :Sungi new Handyman
+STR_1701    :Sungi new Mechanic
+STR_1702    :Sungi new Security Guard
+STR_1703    :Sungi new Entertainer
 STR_1704    :Can't hire new staff...
 STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
 STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
 STR_1709    :Sack staff
-STR_1710    :Yes
+STR_1710    :Jes
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
@@ -1853,7 +1853,7 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guests
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guests
 STR_1849    :{WINDOW_COLOUR_2}Play music
 STR_1850    :{SMALLFONT}{BLACK}Select whether music should be played for this ride
-STR_1851    :{WINDOW_COLOUR_2}Running cost: {BLACK}{CURRENCY2DP} per hour
+STR_1851    :{WINDOW_COLOUR_2}Running cost: {BLACK}{CURRENCY2DP} hore
 STR_1852    :{WINDOW_COLOUR_2}Running cost: {BLACK}Unknown
 STR_1853    :{WINDOW_COLOUR_2}Built: {BLACK}This Year
 STR_1854    :{WINDOW_COLOUR_2}Built: {BLACK}Last Year
@@ -1875,8 +1875,8 @@ STR_1869    :{WINDOW_COLOUR_2}Number of rotations:
 STR_1870    :{SMALLFONT}{BLACK}Number of complete rotations
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1872    :{COMMA16}
-STR_1873    :{WINDOW_COLOUR_2}Income: {BLACK}{CURRENCY2DP} per hour
-STR_1874    :{WINDOW_COLOUR_2}Profit: {BLACK}{CURRENCY2DP} per hour
+STR_1873    :{WINDOW_COLOUR_2}Income: {BLACK}{CURRENCY2DP} hore
+STR_1874    :{WINDOW_COLOUR_2}Profit: {BLACK}{CURRENCY2DP} hore
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
@@ -2005,16 +2005,16 @@ STR_1997    :Candyfloss
 STR_1998    :Empty Can
 STR_1999    :Rubbish
 STR_2000    :Empty Burger Box
-STR_2001    :Pizza
+STR_2001    :Pico
 STR_2002    :Voucher
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Tentacle
 STR_2006    :Hat
 STR_2007    :Toffee Apple
-STR_2008    :T-Shirt
-STR_2009    :Doughnut
-STR_2010    :Coffee
+STR_2008    :T-ĉemizo
+STR_2009    :Benjeto
+STR_2010    :Kafo
 STR_2011    :Empty Cup
 STR_2012    :Fried Chicken
 STR_2013    :Lemonade
@@ -2033,7 +2033,7 @@ STR_2025    :Candyfloss
 STR_2026    :Empty Cans
 STR_2027    :Rubbish
 STR_2028    :Empty Burger Boxes
-STR_2029    :Pizzas
+STR_2029    :Picoj
 STR_2030    :Vouchers
 STR_2031    :Popcorn
 STR_2032    :Hot Dogs
@@ -2042,7 +2042,7 @@ STR_2034    :Hats
 STR_2035    :Toffee Apples
 STR_2036    :T-Shirts
 STR_2037    :Doughnuts
-STR_2038    :Coffees
+STR_2038    :Kafoj
 STR_2039    :Empty Cups
 STR_2040    :Fried Chicken
 STR_2041    :Lemonade
@@ -2061,7 +2061,7 @@ STR_2053    :some Candyfloss
 STR_2054    :an Empty Can
 STR_2055    :some Rubbish
 STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
+STR_2057    :Pico
 STR_2058    :a Voucher
 STR_2059    :some Popcorn
 STR_2060    :a Hot Dog
@@ -2089,14 +2089,14 @@ STR_2081    :Candyfloss
 STR_2082    :Empty Can
 STR_2083    :Rubbish
 STR_2084    :Empty Burger Box
-STR_2085    :Pizza
+STR_2085    :Pico
 STR_2086    :Voucher for {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Hot Dog
 STR_2089    :Tentacle
 STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
 STR_2091    :Toffee Apple
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-ĉemizo
 STR_2093    :Doughnut
 STR_2094    :Coffee
 STR_2095    :Empty Cup
@@ -2140,7 +2140,7 @@ STR_2132    :Wonton Soup
 STR_2133    :Meatball Soup
 STR_2134    :Fruit Juice
 STR_2135    :Soybean Milk
-STR_2136    :Sujongkwa
+STR_2136    :Suĝeongkŭo
 STR_2137    :Sub Sandwich
 STR_2138    :Cookie
 STR_2139    :Empty Bowl
@@ -2162,7 +2162,7 @@ STR_2154    :Wonton Soups
 STR_2155    :Meatball Soups
 STR_2156    :Fruit Juices
 STR_2157    :Soybean Milks
-STR_2158    :Sujongkwa
+STR_2158    :Suĝeongkŭo
 STR_2159    :Sub Sandwiches
 STR_2160    :Cookies
 STR_2161    :Empty Bowls
@@ -2184,7 +2184,7 @@ STR_2176    :some Wonton Soup
 STR_2177    :some Meatball Soup
 STR_2178    :a Fruit Juice
 STR_2179    :some Soybean Milk
-STR_2180    :some Sujongkwa
+STR_2180    :some Suĝeongkŭo
 STR_2181    :a Sub Sandwich
 STR_2182    :a Cookie
 STR_2183    :an Empty Bowl
@@ -2240,18 +2240,18 @@ STR_2232    :Cable lift hill
 STR_2233    :{SMALLFONT}{BLACK}Park information
 STR_2234    :Recent Messages
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
-STR_2236    :January
-STR_2237    :February
-STR_2238    :March
-STR_2239    :April
-STR_2240    :May
-STR_2241    :June
-STR_2242    :July
-STR_2243    :August
-STR_2244    :September
-STR_2245    :October
-STR_2246    :November
-STR_2247    :December
+STR_2236    :Januaro
+STR_2237    :Februaro
+STR_2238    :Marto
+STR_2239    :Aprilo
+STR_2240    :Majo
+STR_2241    :Junio
+STR_2242    :Julio
+STR_2243    :Aŭgusto
+STR_2244    :Septembro
+STR_2245    :Oktobro
+STR_2246    :Novembro
+STR_2247    :Decembro
 STR_2248    :Can't demolish ride/attraction...
 STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
@@ -2336,20 +2336,20 @@ STR_2328    :{WINDOW_COLOUR_2}Currency:
 STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
 STR_2330    :{WINDOW_COLOUR_2}Temperature:
 STR_2331    :{WINDOW_COLOUR_2}Height Labels:
-STR_2332    :Units
+STR_2332    :Unuoj
 STR_2333    :Sound effects
 STR_2334    :Pounds ({POUND})
-STR_2335    :Dollars ($)
-STR_2336    :Franc (F)
-STR_2337    :Deutschmark (DM)
-STR_2338    :Yen ({YEN})
-STR_2339    :Peseta (Pts)
-STR_2340    :Lira (L)
-STR_2341    :Guilders (fl.)
-STR_2342    :Krona (kr)
-STR_2343    :Euros ({EURO})
-STR_2344    :Imperial
-STR_2345    :Metric
+STR_2335    :Dolori ($)
+STR_2336    :Franko (F)
+STR_2337    :Germana Marko (DM)
+STR_2338    :Jen ({YEN})
+STR_2339    :Peseto (Pts)
+STR_2340    :Liro (L)
+STR_2341    :Florinoj (fl.)
+STR_2342    :Krono (kr)
+STR_2343    :Eŭroj ({EURO})
+STR_2344    :Imperia
+STR_2345    :Metriko
 STR_2346    :Display
 STR_2347    :{RED}{STRINGID} has drowned!
 STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
@@ -2362,7 +2362,7 @@ STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
 STR_2357    :House
-STR_2358    :Units
+STR_2358    :Unuoj
 STR_2359    :Real Values
 STR_2360    :Display Resolution:
 STR_2361    :Landscape Smoothing
@@ -2387,7 +2387,7 @@ STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
 STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
 STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
 STR_2382    :Land
-STR_2383    :Water
+STR_2383    :Akvo
 STR_2384    :{WINDOW_COLOUR_2}Your objective:
 STR_2385    :{BLACK}None
 STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
@@ -2404,7 +2404,7 @@ STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise
 STR_2397    :None
 STR_2398    :Number of guests at a given date
 STR_2399    :Park value at a given date
-STR_2400    :Have fun
+STR_2400    :Amuziĝu
 STR_2401    :Build the best ride you can
 STR_2402    :Build 10 roller coasters
 STR_2403    :Number of guests in park
@@ -2447,7 +2447,7 @@ STR_2439    :<removed string - do not use>
 STR_2440    :<removed string - do not use>
 STR_2441    :<removed string - do not use>
 STR_2442    :<removed string - do not use>
-STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
+STR_2443    :{WINDOW_COLOUR_2}Cost semajne: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
 STR_2445    :Start this marketing campaign
 STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
@@ -2754,7 +2754,7 @@ STR_2745    :\
 STR_2746    :]
 STR_2747    :{ENDQUOTES}
 STR_2748    :Bar
-STR_2749    :My new scenario
+STR_2749    :Mia new scenario
 # New strings used in the cheats window previously these were ???
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
@@ -3068,7 +3068,7 @@ STR_3057    :{WINDOW_COLOUR_2}Construction Marker:
 STR_3058    :Brick walls
 STR_3059    :Hedges
 STR_3060    :Ice blocks
-STR_3061    :Wooden fences
+STR_3061    :Ligna fences
 STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
 STR_3063    :{SMALLFONT}{BLACK}Water channel (track submerged)
 STR_3064    :Beginner Parks
@@ -3086,7 +3086,7 @@ STR_3075    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You hav
 STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700 !{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
 STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down !
 STR_3078    :Plain entrance
-STR_3079    :Wooden entrance
+STR_3079    :Ligna entrance
 STR_3080    :Canvas tent entrance
 STR_3081    :Castle entrance (grey)
 STR_3082    :Castle entrance (brown)
