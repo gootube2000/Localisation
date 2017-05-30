@@ -1781,17 +1781,17 @@ STR_1775    :Off
 STR_1776    :On
 STR_1777    :{WINDOW_COLOUR_2}Ride music
 STR_1778    :{STRINGID} - - 
-STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
-STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
-STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roman costume
-STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorilla costume
-STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Snowman costume
-STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Knight costume
-STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
-STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
-STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
-STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
+STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda kostumo
+STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tigra kostumo
+STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elefanta kostumo
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roma kostumo
+STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorila kostumo
+STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Neĝhoma kostumo
+STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Kavalira kostumo
+STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaŭta kostumo
+STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandita kostumo
+STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Ŝerifa kostumo
+STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirata kostumo
 STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
 STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
 STR_1792    :Responding to {STRINGID} breakdown call
@@ -1800,7 +1800,7 @@ STR_1794    :Fixing {STRINGID}
 STR_1795    :Answering radio call
 STR_1796    :Has broken down and requires fixing
 STR_1797    :This option cannot be changed for this ride
-STR_1798    :Whirlpool
+STR_1798    :Turnakvo
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Safety cut-out
 STR_1801    :Restraints stuck closed
@@ -1816,7 +1816,7 @@ STR_1810    :{WINDOW_COLOUR_2}Carrying:
 STR_1811    :Can't build this here...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :Miscellaneous Objects
-STR_1814    :Actions
+STR_1814    :Agoj
 STR_1815    :Thoughts
 STR_1816    :{SMALLFONT}{BLACK}Select information type to show in guest list
 STR_1817    :({COMMA16})
@@ -1844,13 +1844,13 @@ STR_1838    :Satisfaction: {COMMA16}%
 STR_1839    :Reliability: {COMMA16}%
 STR_1840    :Down-time: {COMMA16}%
 STR_1841    :Profit: {CURRENCY2DP} per hour
-STR_1842    :Favourite of: {COMMA16} guest
-STR_1843    :Favourite of: {COMMA16} guests
+STR_1842    :Favourite of: {COMMA16} gasto
+STR_1843    :Favourite of: {COMMA16} gastoj
 STR_1844    :{SMALLFONT}{BLACK}Select information type to show in ride/attraction list
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA16} guests
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guests
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guests
+STR_1846    :{COMMA16} gastoj
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} gastoj
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} gastoj
 STR_1849    :{WINDOW_COLOUR_2}Play music
 STR_1850    :{SMALLFONT}{BLACK}Select whether music should be played for this ride
 STR_1851    :{WINDOW_COLOUR_2}Running cost: {BLACK}{CURRENCY2DP} hore
@@ -1887,7 +1887,7 @@ STR_1881    :Every 30 minutes
 STR_1882    :Every 45 minutes
 STR_1883    :Every hour
 STR_1884    :Every 2 hours
-STR_1885    :Never
+STR_1885    :Neniam
 STR_1886    :Inspecting {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}{COMMA16} minutes
 STR_1888    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}more than 4 hours
@@ -1992,88 +1992,88 @@ STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
 STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
-STR_1989    :Cuddly Toy
-STR_1990    :Park Map
+STR_1988    :Balono
+STR_1989    :Knufla Ludilo
+STR_1990    :Parka Mapo
 STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
-STR_1994    :Burger
-STR_1995    :Chips
-STR_1996    :Ice Cream
-STR_1997    :Candyfloss
+STR_1992    :Ombrelo
+STR_1993    :Trinkaĵo
+STR_1994    :Hamburgero
+STR_1995    :Terpomfingroj
+STR_1996    :Glaciaĵo
+STR_1997    :Sukerŝpinaĵo
 STR_1998    :Empty Can
 STR_1999    :Rubbish
 STR_2000    :Empty Burger Box
 STR_2001    :Pico
 STR_2002    :Voucher
-STR_2003    :Popcorn
-STR_2004    :Hot Dog
-STR_2005    :Tentacle
-STR_2006    :Hat
+STR_2003    :Krevmaizo
+STR_2004    :Kolbasobulko
+STR_2005    :Tentaklo
+STR_2006    :Ĉapelo
 STR_2007    :Toffee Apple
 STR_2008    :T-ĉemizo
 STR_2009    :Benjeto
 STR_2010    :Kafo
 STR_2011    :Empty Cup
 STR_2012    :Fried Chicken
-STR_2013    :Lemonade
+STR_2013    :Limonado
 STR_2014    :Empty Box
 STR_2015    :Empty Bottle
-STR_2016    :Balloons
-STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
+STR_2016    :Balonoj
+STR_2017    :Knuflaj Ludiloj
+STR_2018    :Parkajj Mapo
 STR_2019    :On-Ride Photos
-STR_2020    :Umbrellas
-STR_2021    :Drinks
-STR_2022    :Burgers
-STR_2023    :Chips
-STR_2024    :Ice Creams
-STR_2025    :Candyfloss
+STR_2020    :Ombreloj
+STR_2021    :Trinkaĵoj
+STR_2022    :Hamburgeroj
+STR_2023    :Terpomfingroj
+STR_2024    :Glaciaĵoj
+STR_2025    :Sukerŝpinaĵo
 STR_2026    :Empty Cans
 STR_2027    :Rubbish
 STR_2028    :Empty Burger Boxes
 STR_2029    :Picoj
 STR_2030    :Vouchers
-STR_2031    :Popcorn
-STR_2032    :Hot Dogs
-STR_2033    :Tentacles
-STR_2034    :Hats
+STR_2031    :Krevmaizo
+STR_2032    :Kolbasobulkoj
+STR_2033    :Tentakloj
+STR_2034    :Ĉapeloj
 STR_2035    :Toffee Apples
-STR_2036    :T-Shirts
-STR_2037    :Doughnuts
+STR_2036    :T-ĉemizoj
+STR_2037    :Benjetoj
 STR_2038    :Kafoj
 STR_2039    :Empty Cups
 STR_2040    :Fried Chicken
-STR_2041    :Lemonade
+STR_2041    :Limonado
 STR_2042    :Empty Boxes
 STR_2043    :Empty Bottles
-STR_2044    :a Balloon
-STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
+STR_2044    :Balono
+STR_2045    :Knufla Ludilo
+STR_2046    :Parka Mapo
 STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Chips
-STR_2052    :an Ice Cream
-STR_2053    :some Candyfloss
+STR_2048    :Ombrelo
+STR_2049    :Trinkaĵo
+STR_2050    :Hamurgero
+STR_2051    :Terpomfingroj
+STR_2052    :Glaciaĵo
+STR_2053    :Sukerŝpinaĵo
 STR_2054    :an Empty Can
 STR_2055    :some Rubbish
 STR_2056    :an Empty Burger Box
 STR_2057    :Pico
 STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
+STR_2059    :Krevmaizo
+STR_2060    :Kolbasobulko
+STR_2061    :Tentaklo
+STR_2062    :Ĉapelo
 STR_2063    :a Toffee Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Doughnut
-STR_2066    :a Coffee
+STR_2064    :T-ĉemizo
+STR_2065    :Benjeto
+STR_2066    :Kafo
 STR_2067    :an Empty Cup
 STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
+STR_2069    :Limonado
 STR_2070    :an Empty Box
 STR_2071    :an Empty Bottle
 STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
@@ -2081,27 +2081,27 @@ STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
 STR_2074    :Map of {STRINGID}
 STR_2075    :On-Ride Photo of {STRINGID}
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
+STR_2077    :Trinkaĵo
+STR_2078    :Hamburgero
+STR_2079    :Terpomfingroj
+STR_2080    :Glaciaĵo
+STR_2081    :Sukerŝpinaĵo
 STR_2082    :Empty Can
 STR_2083    :Rubbish
 STR_2084    :Empty Burger Box
 STR_2085    :Pico
 STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
+STR_2087    :Krevmaizo
+STR_2088    :Kolbasobulko
+STR_2089    :Tentaklo
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Ĉapelo
 STR_2091    :Toffee Apple
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-ĉemizo
-STR_2093    :Doughnut
-STR_2094    :Coffee
+STR_2093    :Benjeto
+STR_2094    :Kafo
 STR_2095    :Empty Cup
 STR_2096    :Fried Chicken
-STR_2097    :Lemonade
+STR_2097    :Limonado
 STR_2098    :Empty Box
 STR_2099    :Empty Bottle
 STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
@@ -2118,9 +2118,9 @@ STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
 STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
 STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
 STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujongkwa price:
+STR_2114    :{WINDOW_COLOUR_2}Suĝeongkŭa prezo:
 STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_2116    :{WINDOW_COLOUR_2}Biskvita prezo:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
@@ -2164,7 +2164,7 @@ STR_2156    :Fruit Juices
 STR_2157    :Soybean Milks
 STR_2158    :Suĝeongkŭo
 STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
+STR_2160    :Biskvitoj
 STR_2161    :Empty Bowls
 STR_2162    :Empty Drink Cartons
 STR_2163    :Empty Juice cups
@@ -2208,7 +2208,7 @@ STR_2200    :Fruit Juice
 STR_2201    :Soybean Milk
 STR_2202    :Sujongkwa
 STR_2203    :Sub Sandwich
-STR_2204    :Cookie
+STR_2204    :Biskvito
 STR_2205    :Empty Bowl
 STR_2206    :Empty Drink Carton
 STR_2207    :Empty Juice Cup
@@ -2331,7 +2331,7 @@ STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
 STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
 STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
-STR_2327    :Options
+STR_2327    :Opcioj
 STR_2328    :{WINDOW_COLOUR_2}Currency:
 STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
 STR_2330    :{WINDOW_COLOUR_2}Temperature:
@@ -2339,17 +2339,17 @@ STR_2331    :{WINDOW_COLOUR_2}Height Labels:
 STR_2332    :Unuoj
 STR_2333    :Sound effects
 STR_2334    :Pounds ({POUND})
-STR_2335    :Dolori ($)
-STR_2336    :Franko (F)
-STR_2337    :Germana Marko (DM)
+STR_2335    :Dolaroj ($)
+STR_2336    :Frankoj (F)
+STR_2337    :Germanaj Markoj (DM)
 STR_2338    :Jen ({YEN})
-STR_2339    :Peseto (Pts)
-STR_2340    :Liro (L)
+STR_2339    :Pesetoj (Pts)
+STR_2340    :Liroj (L)
 STR_2341    :Florinoj (fl.)
-STR_2342    :Krono (kr)
+STR_2342    :Kronoj (kr)
 STR_2343    :Eŭroj ({EURO})
 STR_2344    :Imperia
-STR_2345    :Metriko
+STR_2345    :Metrika
 STR_2346    :Display
 STR_2347    :{RED}{STRINGID} has drowned!
 STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
@@ -2361,7 +2361,7 @@ STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
-STR_2357    :House
+STR_2357    :Domo
 STR_2358    :Unuoj
 STR_2359    :Real Values
 STR_2360    :Display Resolution:
@@ -2372,7 +2372,7 @@ STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit ({DEGREE}F)
-STR_2368    :None
+STR_2368    :Neniu
 STR_2369    :Low
 STR_2370    :Average
 STR_2371    :High
@@ -2389,10 +2389,10 @@ STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
 STR_2382    :Land
 STR_2383    :Akvo
 STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
+STR_2385    :{BLACK}Neniu
 STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
+STR_2388    :{BLACK}Amuziĝu!
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
 STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
 STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
@@ -2401,7 +2401,7 @@ STR_2393    :{BLACK}To have 10 different types of roller coasters operating in y
 STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
 STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
+STR_2397    :Neniu
 STR_2398    :Number of guests at a given date
 STR_2399    :Park value at a given date
 STR_2400    :Amuziĝu
@@ -2447,7 +2447,7 @@ STR_2439    :<removed string - do not use>
 STR_2440    :<removed string - do not use>
 STR_2441    :<removed string - do not use>
 STR_2442    :<removed string - do not use>
-STR_2443    :{WINDOW_COLOUR_2}Cost semajne: {BLACK}{CURRENCY2DP}
+STR_2443    :{WINDOW_COLOUR_2}Kosta semajne: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
 STR_2445    :Start this marketing campaign
 STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
@@ -2562,7 +2562,7 @@ STR_2553    :???
 STR_2554    :???
 STR_2555    :???
 STR_2556    :???
-STR_2557    :Spacebar
+STR_2557    :Spacostango
 STR_2558    :PgUp
 STR_2559    :PgDn
 STR_2560    :End
@@ -2577,7 +2577,7 @@ STR_2568    :Execute
 STR_2569    :Snapshot
 STR_2570    :Insert
 STR_2571    :Delete
-STR_2572    :Help
+STR_2572    :Helpo
 STR_2573    :0
 STR_2574    :1
 STR_2575    :2
@@ -2623,7 +2623,7 @@ STR_2614    :Y
 STR_2615    :Z
 STR_2616    :???
 STR_2617    :???
-STR_2618    :Menu
+STR_2618    :Menuo
 STR_2619    :???
 STR_2620    :???
 STR_2621    :NumPad 0
@@ -2711,7 +2711,7 @@ STR_2702    :Every 5 minutes
 STR_2703    :Every 15 minutes
 STR_2704    :Every 30 minutes
 STR_2705    :Every hour
-STR_2706    :Never
+STR_2706    :Neniam
 STR_2707    :Use system dialog window
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
@@ -2754,7 +2754,7 @@ STR_2745    :\
 STR_2746    :]
 STR_2747    :{ENDQUOTES}
 STR_2748    :Bar
-STR_2749    :Mia new scenario
+STR_2749    :Mia nova scenaro
 # New strings used in the cheats window previously these were ???
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
@@ -2772,11 +2772,11 @@ STR_2762    :<removed string - do not use>
 STR_2763    :???
 STR_2764    :<removed string - do not use>
 STR_2765    :Large Tram
-STR_2766    :Win scenario
+STR_2766    :Win scenaro
 STR_2767    :Freeze Climate
 STR_2768    :Unfreeze Climate
-STR_2769    :Open Park
-STR_2770    :Close Park
+STR_2769    :Open Parkon
+STR_2770    :Close Parkon
 STR_2771    :Slower Gamespeed
 STR_2772    :Faster Gamespeed
 STR_2773    :Windowed
@@ -2798,7 +2798,7 @@ STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Congratulations !{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY} !
 STR_2789    :{WINDOW_COLOUR_2}You have failed your objective !
 STR_2790    :Enter name into scenario chart
-STR_2791    :Enter name
+STR_2791    :Enter nomon
 STR_2792    :Please enter your name for the scenario chart:
 STR_2793    :{SMALLFONT}(Completed by {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
@@ -2809,7 +2809,7 @@ STR_2798    :{SMALLFONT}{BLACK}Scroll the view when the mouse pointer is at the 
 STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
 STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
-STR_2802    :Map
+STR_2802    :Mapo
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
 STR_2805    :{SMALLFONT}{BLACK}Show map of park
@@ -2998,8 +2998,8 @@ STR_2987    :{SMALLFONT}{BLACK}Set this banner as a 'no-entry' sign for guests
 STR_2988    :{SMALLFONT}{BLACK}Demolish this banner
 STR_2989    :{SMALLFONT}{BLACK}Select main colour
 STR_2990    :{SMALLFONT}{BLACK}Select text colour
-STR_2991    :Sign
-STR_2992    :Sign text
+STR_2991    :Signo
+STR_2992    :Signa teksto
 STR_2993    :Enter new text for this sign:
 STR_2994    :{SMALLFONT}{BLACK}Change text on sign
 STR_2995    :{SMALLFONT}{BLACK}Demolish this sign
@@ -3028,12 +3028,12 @@ STR_3017    :Jungle drums style
 STR_3018    :Egyptian style
 STR_3019    :Toyland style
 STR_3020    :
-STR_3021    :Space style
-STR_3022    :Horror style
+STR_3021    :Spaca stilo
+STR_3022    :Horora stilo
 STR_3023    :Techno style
 STR_3024    :Gentle style
 STR_3025    :Summer style
-STR_3026    :Water style
+STR_3026    :Akva stilo
 STR_3027    :Wild west style
 STR_3028    :Jurassic style
 STR_3029    :Rock style
@@ -3164,8 +3164,8 @@ STR_3153    :{SMALLFONT}{BLACK}Scroll {STRINGID} down fast
 STR_3154    :{SMALLFONT}{BLACK}Scroll {STRINGID} up/down
 STR_3155    :
 STR_3156    :
-STR_3157    :map
-STR_3158    :graph
+STR_3157    :mapo
+STR_3158    :grafikaĵo
 STR_3159    :list
 STR_3160    :{SMALLFONT}{BLACK}Select the number of circuits per ride
 STR_3161    :<removed string - do not use>
@@ -3192,15 +3192,15 @@ STR_3181    :Object Selection - {STRINGID}
 STR_3182    :Park entrance type must be selected
 STR_3183    :Water type must be selected
 STR_3184    :Ride Vehicles/Attractions
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
+STR_3185    :Malgranda Pejzaĝo
+STR_3186    :Granda Pejzaĝo
 STR_3187    :Walls/Fences
 STR_3188    :Path Signs
 STR_3189    :Footpaths
 STR_3190    :Path Extras
 STR_3191    :Scenery Groups
 STR_3192    :Park Entrance
-STR_3193    :Water
+STR_3193    :Akvo
 STR_3194    :Scenario Description
 STR_3195    :Invention List
 STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
@@ -3297,10 +3297,10 @@ STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
 STR_3287    :{WINDOW_COLOUR_2}Objective:
 STR_3288    :{SMALLFONT}{BLACK}Select climate
 STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
+STR_3290    :Malvarma and malseka
+STR_3291    :Varma
+STR_3292    :Varma and seka
+STR_3293    :Malvarma
 STR_3294    :Change...
 STR_3295    :{SMALLFONT}{BLACK}Change name of park
 STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
@@ -3320,7 +3320,7 @@ STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
 STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
+STR_3313    :Scenara Nomo
 STR_3314    :Enter name for scenario:
 STR_3315    :Park/Scenario Details
 STR_3316    :Enter description of this scenario:
@@ -3449,11 +3449,11 @@ STR_3436    :{SMALLFONT}{BLACK}While waiting for our first riders, we could cust
 STR_3437    :{SMALLFONT}{BLACK}Clear large areas of scenery from landscape
 STR_3438    :Unable to remove all scenery from here...
 STR_3439    :Clear Scenery
-STR_3440    :Page 1
-STR_3441    :Page 2
-STR_3442    :Page 3
-STR_3443    :Page 4
-STR_3444    :Page 5
+STR_3440    :Paĝo 1
+STR_3441    :Paĝo 2
+STR_3442    :Paĝo 3
+STR_3443    :Paĝo 4
+STR_3444    :Paĝo 5
 STR_3445    :Set Patrol Area
 STR_3446    :Cancel Patrol Area
 
@@ -3532,7 +3532,7 @@ STR_5190    :Map
 STR_5191    :Viewport
 STR_5192    :Recent News
 STR_5193    :Land
-STR_5194    :Water
+STR_5194    :Akvo
 STR_5195    :Clear Scenery
 STR_5196    :Land Rights
 STR_5197    :Scenery
@@ -3556,8 +3556,8 @@ STR_5214    :Map Generation
 STR_5215    :Track Design Manager
 STR_5216    :Track Design Manager List
 STR_5217    :Cheats
-STR_5218    :Themes
-STR_5219    :Options
+STR_5218    :Temoj
+STR_5219    :Opcioj
 STR_5220    :Keyboard Shortcuts
 STR_5221    :Change Keyboard Shortcut
 STR_5222    :Load/Save
@@ -3688,7 +3688,7 @@ STR_5346    :Guest cheats
 STR_5347    :Park cheats
 STR_5348    :Ride cheats
 STR_5349    :{SMALLFONT}{BLACK}All Rides
-STR_5350    :Max
+STR_5350    :Maks
 STR_5351    :Min
 STR_5352    :{BLACK}Happiness:
 STR_5353    :{BLACK}Energy:
@@ -3980,7 +3980,7 @@ STR_5638    :Permission denied
 STR_5639    :{SMALLFONT}{BLACK}Show list of players
 STR_5640    :{SMALLFONT}{BLACK}Manage groups
 STR_5641    :Default Group:
-STR_5642    :Group:
+STR_5642    :Grupo:
 STR_5643    :Add Group
 STR_5644    :Remove Group
 STR_5645    :Chat
@@ -4014,7 +4014,7 @@ STR_5706    :Can't remove group that players belong to
 STR_5707    :This group cannot be modified
 STR_5708    :Can't change the group that the host belongs to
 STR_5709    :Rename Group
-STR_5710    :Group name
+STR_5710    :Grupa nomo
 STR_5711    :Enter new name for this group:
 STR_5712    :Can't modify permission that you do not have yourself
 STR_5713    :Kick Player
@@ -4027,8 +4027,8 @@ STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
 STR_5719    :Sunny
 STR_5720    :Partially Cloudy
 STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
+STR_5722    :Pluvo
+STR_5723    :Pluvego
 STR_5724    :Thunderstorm
 STR_5725    :{BLACK}Force weather:
 STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
@@ -4078,7 +4078,7 @@ STR_5768    :Total customers
 STR_5769    :Total profit
 STR_5770    :Customers per hour
 STR_5771    :Running cost
-STR_5772    :Age
+STR_5772    :Aĝo
 STR_5773    :Total customers: {COMMA32}
 STR_5774    :Total profit: {CURRENCY2DP}
 STR_5775    :Customers: {COMMA32} per hour
@@ -4179,7 +4179,7 @@ STR_5867    :{WINDOW_COLOUR_2}Provider Name: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Provider E-mail: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Provider Website: {BLACK}{STRING}
 STR_5870    :{SMALLFONT}{BLACK}Show server information
-STR_5871    :Plants don't age
+STR_5871    :Plantsoj ne aĝas
 STR_5872    :{SMALLFONT}{BLACK}Disable plant aging such that they don't wilt.
 STR_5873    :Allow chain lifts on all track pieces
 STR_5874    :{SMALLFONT}{BLACK}Allows any piece of track to be made into a chain lift
@@ -4276,8 +4276,8 @@ STR_5964    :{WINDOW_COLOUR_2}Diagonal
 STR_5965    :{WINDOW_COLOUR_2}Entrance type: {BLACK}{STRINGID}
 STR_5966    :{WINDOW_COLOUR_2}Park entrance part: {BLACK}{STRINGID}
 STR_5967    :Middle
-STR_5968    :Left
-STR_5969    :Right
+STR_5968    :Maldekstra
+STR_5969    :Dekstra
 STR_5970    :{WINDOW_COLOUR_2}Entrance ID: {BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}Exit ID: {BLACK}{COMMA16}
 STR_5972    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
